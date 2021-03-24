@@ -1,6 +1,6 @@
 Hi there 👋,  I’m @clneitzke
 
-- 👀 I’m interested in Swift, C++
+- 👀 I’m interested in Swift, C++ and Databases
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on 
 - 📫 Reach me on www.neitzke.com.br
