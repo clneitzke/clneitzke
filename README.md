@@ -1,9 +1,14 @@
-Hi there 👋,  I’m @clneitzke
+## Hi there 👋,  I’m @clneitzke 
 
-- 👀 I’m interested in Swift, C++ and Databases
+- 👀 I’m interested in ✨ Swift ✨ , C++ , Software Engineer, Agile and Databases
 - 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on 
-- 📫 Reach me on www.neitzke.com.br
+- 📫 Reach me on linkedin.com/in/clneitzke/
+
+## About
+
+I'm from Brazil, 40+ years old and in love width coding.
+
+
 
 <!---
 clneitzke/clneitzke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
