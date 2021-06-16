@@ -6,7 +6,7 @@
 
 ## About
 
-I'm from Brazil, 40+ years old and in love width coding.
+I'm from Brazil, 40+ years old and in love with coding.
 
 
 
