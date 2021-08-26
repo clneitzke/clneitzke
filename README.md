@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in ✨ Swift ✨ , C++ , Software Engineer, Agile and Databases
 - 🌱 I’m currently learning Swift
-- 📫 Reach me on linkedin.com/in/clneitzke/
+- 📫 Reach me on linkedin.com/in/clneitzke
 
 ## About
 
