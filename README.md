@@ -2,10 +2,10 @@
 
 - I’m interested in ✨Swift✨, Objective-C, C#, C++, Software Engineer, Agile and Databases
 - I’m currently learning Swift and Vapor
-- Reach me on linkedin.com/in/clneitzke/
 
 ## About
 
+- Reach me on linkedin.com/in/clneitzke/
 
 
 <!---
