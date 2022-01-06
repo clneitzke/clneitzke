@@ -1,12 +1,11 @@
 ## Hi there 👋,  I’m @clneitzke 
 
-- 👀 I’m interested in ✨ Swift ✨ , C++ , Software Engineer, Agile and Databases
-- 🌱 I’m currently learning Swift
-- 📫 Reach me on linkedin.com/in/clneitzke
+- I’m interested in ✨Swift✨, Objective-C, C#, C++, Software Engineer, Agile and Databases
+- I’m currently learning Swift ( Apps and Vapor )
 
 ## About
 
-
+- Reach me on linkedin.com/in/clneitzke/
 
 <!---
 clneitzke/clneitzke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
