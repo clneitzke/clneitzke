@@ -5,7 +5,7 @@
 
 ## About
 
-- Reach me on [https://linkedin.com/in/clneitzke/] linkedin
+- Reach me on [linkedin](https://linkedin.com/in/clneitzke/)
 
 <!---
 clneitzke/clneitzke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
