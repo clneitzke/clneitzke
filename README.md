@@ -1,7 +1,7 @@
 ## Hi there 👋,  I’m @clneitzke 
 
-- I’m interested in ✨Swift✨, Objective-C, C#, C++, Software Engineer, Agile and Databases
-- I’m currently learning Swift ( Apps and Vapor )
+- I’m interested in ✨Swift✨, Objective-C, C#, ✨dotNet✨, C++, Software Engineer, Agile and Databases
+- I’m currently learning Swift and dotNet
 
 ## About
 
