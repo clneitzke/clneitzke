@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="200" src="https://techcrunch.com/wp-content/uploads/2014/02/flappy.gif?w=1390&crop=1">
 
 - 🔭 I’m learning Swift, C# <br/>
-- ☁️ I’m interested in Backend and Fullstack Development, Mobile Apps for iOS.
+- ☁️ I’m interested in Mobile, Backend and Fullstack Development.
 
 ### About
 
