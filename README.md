@@ -6,6 +6,8 @@
 ## About
 
 Reach me on:
-- [linkedin](https://linkedin.com/in/clneitzke/)
+- [web](https://clneitzke.me/)
 - [twitter](https://twitter.com/clneitzke/)
+- [linkedin](https://linkedin.com/in/clneitzke/)
+
 
