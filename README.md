@@ -6,7 +6,7 @@
 ## About
 
 Reach me on:
-- [web](https://clneitzke.me/)
+- [web](https://neitzke.ca/cl)
 - [twitter](https://twitter.com/clneitzke/)
 - [linkedin](https://linkedin.com/in/clneitzke/)
 
